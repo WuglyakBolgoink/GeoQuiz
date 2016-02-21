@@ -1,4 +1,3 @@
 GeoQuiz
 =======
-
-GeoQuiz - Android application - MobileAnwendungen SS14
+Android application
